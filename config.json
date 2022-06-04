@@ -12,12 +12,8 @@
   "email": "fernandogroder@gmail.com",
   "ps1_hostname": "terminal",
   "ps1_username": "visitor",
-  "repo": "https://github.com/FeGroders/fegroders.github.io",
+  "repo": "https://github.com/FeGroders/portfolio",
   "resume_url": "",
-  "donate_urls": {
-    "paypal": "https://paypal.me/fegroders",
-    "patreon": "https://patreon.com/fegroders"
-  },
   "colors": {
     "light": {
       "background": "#282a36",
