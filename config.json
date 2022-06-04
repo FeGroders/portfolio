@@ -6,7 +6,8 @@
   "social": {
     "github": "fegroders",
     "linkedin": "fernandogroders",
-    "discordServerInvite": "https://discord.gg/Mthzm3fDg8"
+    "discordServerInvite": "https://discord.gg/Mthzm3fDg8",
+    "devToUsername": "fegroders"
   },
   "email": "fernandogroder@gmail.com",
   "ps1_hostname": "terminal",
