@@ -157,3 +157,40 @@ Type 'sumfetch' to display summary.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
 `;
 };
+
+// Setup
+export const setup = (args?: string[]): string => {
+  return `
+  PC
+  Galax GTX 1060 6GB OC
+  Intel Core i5-6400 2.7GHz
+  RAM 16GB
+  HD 1TB
+  SSD Crucial BX500 240GB
+  Windows 10
+
+  LAPTOP - Acer Swift 3 SF314-59-56FS
+  Intel Core i5-1135G7
+  SSD 512GB
+  RAM 8GB
+  Ubuntu 20.04
+
+  EQUIPMENTS
+  Chair - DT3sports Elise
+  Keyboard - Multilaser Warrior Kane TC235
+  Mouse - DeathAdder Chroma
+  Mousepad - Redragon Aquarius
+  Headset - Razer Kraken Essential
+  Iphone 8 64gb
+  AirPods 2nd Gen
+
+  TOOLS
+  VS Code
+  Figma
+  Netbeans
+  Android Studio
+  
+  THEME
+  Dracula Theme
+`;
+};
